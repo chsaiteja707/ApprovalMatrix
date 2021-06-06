@@ -1,0 +1,29 @@
+user submits a request for a list of available applications in a application list table
+
+approvals-page
+main-page
+requests-page
+applications-page
+
+once it is sumitted it will go for approvals 2 level
+
+once approvals are completed - request will be in completed request_status
+
+request status - in approval, rejected, accepted
+
+-->user table should be present
+-->application table should be present
+## user submits a request for application
+
+
+-->approval table
+    request_id
+    submitted_by
+    submitted_Date
+    application_name
+    request_status
+
+
+
+
+
